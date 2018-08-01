@@ -1,6 +1,6 @@
 # Truck-Cargo-Load-Problem-by-Genetic-Algorithm
 
-This problem helps to load Cargo on Truck / Cargo-ships taking profit into account.It deals with loading minimum weight of load and maximizing profit.
+This problem helps to load Cargo on Truck / Cargo-ships taking profit into account.It deals with loading minimum weight of load and maximizing profit.Code is within Cargo_load.cpp while Cargo_data.csv is given as test file.
 
 # Genetic Algorithm
 
